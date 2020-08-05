@@ -6,6 +6,6 @@ I'm a full stack developer, like contribute to open source project and I'm still
 
 - 🔭 I’m currently working on **[ThoughtWorks](https://www.thoughtworks.com/)**
 - 🌱 I’m currently learning how to become a better developer 
-- 📫 Reach me: qulianqing1314@gmail.com
+- 📫 Reach me: qulianqing1314<at>gmail.com
 
 
