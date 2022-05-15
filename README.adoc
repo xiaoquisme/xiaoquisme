@@ -10,7 +10,7 @@ I'm a full stack developer, like contribute to open source project and I'm still
 - 📫 Reach me: qulianqing1314***at***qq.com
 - resume: https://resume.github.io/?xiaoquisme
 
-IMPORTANT: old github name: *1483523635*
+IMPORTANT: old github name: *1483523635*. now it has been changed to *xiaoquisme*
 
 
 image::http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaoquisme&theme=vue[]
