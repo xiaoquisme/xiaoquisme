@@ -1,16 +1,21 @@
 === Hi there 👋
 
+[block, text]
+----
+I'm a full stack developer, like contribute to open source project and I'm still working on it.
+----
+
+- 🔭 I’m currently working on https://www.thoughtworks.com/[*ThoughtWorks*]
+- 🌱 I’m currently learning how to become a better developer 
+- 📫 Reach me: qulianqing1314***at***qq.com
+- resume: https://resume.github.io/?xiaoquisme
+
+IMPORTANT: old github name: *1483523635*
+
+
 image::http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaoquisme&theme=vue[]
 
 image::http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaoquisme&theme=vue[,,float="left"]
 
 image::http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiaoquisme&theme=vue[,,float="right"]
 
-I'm a full stack developer, like contribute to open source project and I'm still working on it.
-
-- 🔭 I’m currently working on **[ThoughtWorks](https://www.thoughtworks.com/)**
-- 🌱 I’m currently learning how to become a better developer 
-- 📫 Reach me: qulianqing1314***at***qq.com
-- resume: https://resume.github.io/?xiaoquisme
-
-INFO: old github name: *1483523635*
