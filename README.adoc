@@ -8,7 +8,8 @@ I'm a full stack developer, like contribute to open source project and I'm still
 - 🔭 I’m currently working on https://www.thoughtworks.com/[*ThoughtWorks*]
 - 🌱 I’m currently learning how to become a better developer 
 - 📫 Reach me: qulianqing1314***at***qq.com
-- resume: https://resume.github.io/?xiaoquisme
+- ⛳️ resume: https://resume.github.io/?xiaoquisme
+- 🔗 blogs: https://blogs.xiaoisme.com
 
 IMPORTANT: old github name: *1483523635*. now it has been changed to *xiaoquisme*
 
