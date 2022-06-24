@@ -6,7 +6,7 @@ I'm a full stack developer, like contribute to open source project and I'm still
 ----
 
 - 🔭 I’m currently working on https://www.thoughtworks.com/[*ThoughtWorks*]
-- 🌱 I’m currently learning how to become a better developer 
+- 🌱 Rust Leaninger
 - 📫 Reach me: qulianqing1314***at***qq.com
 - ⛳️ resume: https://resume.github.io/?xiaoquisme
 - 🔗 blogs: https://blogs.xiaoquisme.com/
