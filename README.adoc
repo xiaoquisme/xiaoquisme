@@ -23,9 +23,11 @@ I'm a full stack developer, like contribute to open source project and I'm still
 
 currently learning:
 
-. rust
-. flink
-. istio
+. vue 3.0 + webpack+ vite(a project need me learn 🤣)
+. **rust(on hold)**
+. **flink(on hold)**
+. **istio(slow process)**
+
 
 
 IMPORTANT: old github name: *1483523635*. now it has been changed to *xiaoquisme*
