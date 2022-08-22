@@ -28,7 +28,10 @@ currently learning:
 . **flink(on hold)**
 . **istio(slow process)**
 
+reading list:
 
+- https://github.com/CarpenterLee/JCFInternals
+- https://github.com/CarpenterLee/JavaLambdaInternals
 
 IMPORTANT: old github name: *1483523635*. now it has been changed to *xiaoquisme*
 
