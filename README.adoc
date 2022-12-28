@@ -22,8 +22,6 @@ I'm a full stack developer, like contribute to open source project and I'm still
 - 🔗 blogs: https://blogs.xiaoquisme.com/
 
 currently learning:
-
-. vue 3.0 + webpack+ vite(a project need me learn 🤣)
 . **rust(on hold)**
 . **flink(on hold)**
 . **istio(slow process)**
