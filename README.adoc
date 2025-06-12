@@ -17,4 +17,6 @@ reading list:
 - https://github.com/CarpenterLee/JCFInternals
 - https://github.com/CarpenterLee/JavaLambdaInternals
 
+image:https://github-readme-stats-blond-pi-91.vercel.app/api?username=xiaoquisme[] image:https://github-readme-stats-blond-pi-91.vercel.app/api/top-langs/?username=xiaoquisme[]
+
 IMPORTANT: old github name: *1483523635*. now it has been changed to *xiaoquisme*
